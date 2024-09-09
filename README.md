@@ -18,7 +18,7 @@ DETAILS:
 * Amazon CloudFront is used to serve HTTPS content to users viewing my portfolio site.
 * A static IP is attached to my EC2 instance.
 * The Certificate for my website was obtained from Amazon Certificate Manager (ACM) and attached to Amazon CloudFront.
-* This architecture is hosted the canadian region making it easier for canadian users to access my website.
+* This architecture is hosted in the canadian region making it easier for canadian users to access my website.
 
 
 Tools:
