@@ -1,4 +1,5 @@
-Portfolio Website
+Portfolio website on Amazon Lightsail
+=====================================
 
 
 
@@ -6,8 +7,7 @@ Portfolio Website
 
 
 
-Portfolio website on Amazon Lightsail
-=====================================
+
 
 * This Portfolio website was built on Amazon Lightsail.
 * For this project , I created an Independent Amazon RDS (MariaDB) instance for the database and used an EC2 instance to a Apache Webserver on Ubuntu 22.
