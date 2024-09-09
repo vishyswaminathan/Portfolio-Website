@@ -7,10 +7,12 @@ Portfolio website on Amazon Lightsail
 
 
 
+DETAILS:
+--------
 
 
 * This Portfolio website was built on Amazon Lightsail.
-* For this project , I created an Independent Amazon RDS (MariaDB) instance for the database and used an EC2 instance to a Apache Webserver on Ubuntu 22.
+* For this project , I created an Independent Amazon RDS (MariaDB) instance for the database and used an EC2 instance to host an Apache Webserver on Ubuntu 22.
 * A simple yet efficient setup to host my porfolio website which showcases my skills and experience including other DevOps and AWS projects.
 * Route53 was used to host my domain records.
 * Amazon CloudFront is used to serve HTTPS content to users viewing my portfolio site.
